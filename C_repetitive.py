@@ -101,7 +101,6 @@ while i < len(masini):
 print(masini_vechi)
 print(masini)
 
-
 '''
 6. Având dict:
 pret_masini = {
