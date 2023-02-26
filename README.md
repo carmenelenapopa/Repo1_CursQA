@@ -6,4 +6,5 @@ QA testing course
 3. OOP
 4. Operatori
 5. Structuri date
+6. Selectors
 
